@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>thelocalgodd</title>
+    <link>https://example.org/</link>
+    <description>Recent content on thelocalgodd</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Apr 2024 19:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How did I get here?</title>
+      <link>https://example.org/posts/first-post/</link>
+      <pubDate>Sat, 06 Apr 2024 19:00:00 +0000</pubDate>
+      <guid>https://example.org/posts/first-post/</guid>
+      <description>This is a short recap of how I began my coding journey last year, at the start of my CS degree.
+const tlgg = &amp;#39;Vincent Kwaku Kpemlie&amp;#39; </description>
+    </item>
+  </channel>
+</rss>
